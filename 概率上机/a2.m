@@ -1,6 +1,3 @@
-clear all;
-clc
-
 x=normrnd(0,1,1,6000);
 xhar=mean(x)
 var(x)
